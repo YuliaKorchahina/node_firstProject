@@ -36,7 +36,4 @@ program.parse();
 
 const option = program.opts();
 invokeActions(option);
-// invokeActions({ action: "list" });
-// invokeActions({action:'get', id:'AeHIrLTr6JkxGE6SN-0Rw'})
-// invokeActions({action:"add", name: "Finik", email: "Finic@com.ua", phone:"093"})
-// invokeActions({action: "remove", id: "1"})
+
